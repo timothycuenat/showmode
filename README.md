@@ -10,7 +10,13 @@ Curseur, notifications, Dock, icônes du bureau : ShowMode écarte tout ce qui p
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-SwiftUI%20%2B%20AppKit-F05138?style=flat-square&logo=swift&logoColor=white)
-![Langues](https://img.shields.io/badge/langues-FR%20%7C%20EN-1AA3AD?style=flat-square)
+![Langues](https://img.shields.io/badge/langues-FR%20%7C%20EN-555555?style=flat-square)
+
+**[Site web](https://timothycuenat.github.io/showmode/)** · **[Télécharger](https://github.com/timothycuenat/showmode/releases/latest)**
+
+<br>
+
+<img src="docs/assets/menu.png" width="320" alt="Le menu de ShowMode">
 
 </div>
 
@@ -54,14 +60,21 @@ Chaque valeur d'origine est enregistrée **avant** d'être modifiée. Tout est r
 
 ## Installation
 
-Il n'y a pas encore de version téléchargeable : l'app se compile avec Xcode.
+**[Télécharger l'installateur (.pkg)](https://github.com/timothycuenat/showmode/releases/latest/download/ShowMode-macOS.pkg)**, puis lancez-le. L'icône apparaît dans la barre des menus, en haut à droite de l'écran.
+
+Si macOS bloque l'ouverture, car l'app n'est pas encore notarisée par Apple, allez dans **Réglages Système → Confidentialité et sécurité** et cliquez sur **Ouvrir quand même**.
+
+<details>
+<summary>Compiler depuis les sources</summary>
 
 ```bash
 git clone https://github.com/timothycuenat/showmode.git
 open showmode/ShowMode.xcodeproj
 ```
 
-Appuyez ensuite sur **⌘R**. L'icône apparaît dans la barre des menus, en haut à droite de l'écran.
+Appuyez ensuite sur **⌘R**, ou créez l'installateur avec `./packaging/package-macos.sh`.
+
+</details>
 
 ## Utilisation
 
@@ -97,6 +110,8 @@ ShowMode/
 ├── System/   Écrans, curseur, fond d'écran, notifications, gestes
 └── Views/    Menu et éditeur de disposition
 Tools/        Génération des icônes
+packaging/    Création de l'installateur
+docs/         Site web
 ```
 
 Pour régénérer les icônes :
