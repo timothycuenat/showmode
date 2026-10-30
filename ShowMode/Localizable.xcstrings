@@ -1,0 +1,669 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Actif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actif"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Inactif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inactive"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inactif"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Mode Spectacle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Mode"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode Spectacle"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Quitter l'application": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit ShowMode"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter l'application"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Écrans du spectacle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show displays"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écrans du spectacle"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Aucun écran externe détecté": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No external display detected"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun écran externe détecté"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Gérer la disposition des écrans…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manage display arrangement…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gérer la disposition des écrans…"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Options": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Options"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Options"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Masquer la barre des menus": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide menu bar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer la barre des menus"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Masquer le Dock": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide Dock"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer le Dock"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Masquer les icônes du bureau": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide desktop icons"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer les icônes du bureau"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Positionnement en diagonale": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diagonal placement"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Positionnement en diagonale"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Fond d'écran noir sur les écrans cochés": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Black wallpaper on checked displays"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fond d'écran noir sur les écrans cochés"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Fenêtre Blackout de secours": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Backup blackout window"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fenêtre Blackout de secours"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Couper les gestes Mission Control et Spaces": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disable Mission Control and Spaces gestures"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couper les gestes Mission Control et Spaces"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Curseur": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cursor"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Curseur"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Interdire les écrans cochés": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep out of checked displays"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interdire les écrans cochés"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Masquer après inactivité": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide when idle"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer après inactivité"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Délai : %lld s": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delay: %lld s"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Délai : %lld s"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Notifications": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Couper les bannières de notification": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Block notification banners"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couper les bannières de notification"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Couper les sons d'alerte": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mute alert sounds"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couper les sons d'alerte"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Icône": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icon"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icône"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Activer ou désactiver d'un clic sur l'icône": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toggle Show Mode by clicking the icon"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer ou désactiver d'un clic sur l'icône"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Clic droit sur l'icône pour rouvrir ce menu.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Right-click the icon to reopen this menu."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic droit sur l'icône pour rouvrir ce menu."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Disposition des écrans": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Display Arrangement"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disposition des écrans"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Faites glisser un écran pour le déplacer. Cette disposition est annulée à la désactivation du Mode Spectacle, sauf si vous la conservez.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag a display to move it. This arrangement is undone when Show Mode is turned off, unless you keep it."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faites glisser un écran pour le déplacer. Cette disposition est annulée à la désactivation du Mode Spectacle, sauf si vous la conservez."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Placer en diagonale": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place diagonally"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Placer en diagonale"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Restaurer la disposition d'origine": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore original arrangement"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurer la disposition d'origine"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Conserver cette disposition": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep this arrangement"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserver cette disposition"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Principal": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Main"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Principal"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Spectacle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spectacle"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Non utilisé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not used"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non utilisé"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Écriture de %@ impossible : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not write %1$@: %2$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écriture de %1$@ impossible : %2$@"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Réglage du volume des alertes impossible : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not set the alert volume: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglage du volume des alertes impossible : %@"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Écran %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Display %lld"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écran %lld"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Configuration de l'écran impossible (CGError %lld).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not configure the display (CGError %lld)."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configuration de l'écran impossible (CGError %lld)."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Création du fond noir impossible.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not create the black wallpaper."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Création du fond noir impossible."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "Délai dépassé : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timed out: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Délai dépassé : %@"
+          }
+        }
+      },
+      "extractionState": "manual"
+    }
+  },
+  "version": "1.0"
+}
